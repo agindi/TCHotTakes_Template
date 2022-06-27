@@ -1,5 +1,5 @@
 # TCHotTakes_Template
-Some starter code for the Tech Connect "Hot Takes" Challenge. To view the sample project, look at [mine]().
+Some starter code for the Tech Connect "Hot Takes" Challenge. To view the sample project, look at [mine](https://github.com/agindi/TCHotTakes_SampleProject).
 
 This template uses Python, so if you'd like to use it please install a recent version of Python - the below instructions are for Windows but feel free to scour the internet for analygous instructions on your system. Also, if you'd like to use Jupyter Notebook, the process may be simpler, but it's also fun to get down in the weeds, and if you're new to Python I suggest following the steps below.
 
